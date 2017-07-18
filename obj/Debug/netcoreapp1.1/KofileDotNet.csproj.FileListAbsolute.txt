@@ -1,0 +1,8 @@
+c:\Users\Eric\Documents\Visual Studio\KofileDotNet\bin\Debug\netcoreapp1.1\KofileDotNet.deps.json
+c:\Users\Eric\Documents\Visual Studio\KofileDotNet\bin\Debug\netcoreapp1.1\KofileDotNet.runtimeconfig.json
+c:\Users\Eric\Documents\Visual Studio\KofileDotNet\bin\Debug\netcoreapp1.1\KofileDotNet.runtimeconfig.dev.json
+c:\Users\Eric\Documents\Visual Studio\KofileDotNet\bin\Debug\netcoreapp1.1\KofileDotNet.dll
+c:\Users\Eric\Documents\Visual Studio\KofileDotNet\bin\Debug\netcoreapp1.1\KofileDotNet.pdb
+c:\Users\Eric\Documents\Visual Studio\KofileDotNet\obj\Debug\netcoreapp1.1\KofileDotNet.AssemblyInfo.cs
+c:\Users\Eric\Documents\Visual Studio\KofileDotNet\obj\Debug\netcoreapp1.1\KofileDotNet.dll
+c:\Users\Eric\Documents\Visual Studio\KofileDotNet\obj\Debug\netcoreapp1.1\KofileDotNet.pdb
