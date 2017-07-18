@@ -50,8 +50,8 @@ namespace KofileDotNet.Controllers
         }
 
                 
-        [HttpPost, Route("Dist")]
-        public dynamic Dist([FromBody] Order[] orderList)
+        [HttpPost, Route("Dists")]
+        public dynamic Dists([FromBody] Order[] orderList)
         {
             if(orderList == null)
                 return null;
